@@ -1,0 +1,21 @@
+Arrays are:
+
+collection of items. we can store primitive and non primitive data inside arrays
+
+why we need it?
+ help us manage large data stored in arrays using loops
+ we can process data using loops
+
+ // i is the variable name of index
+         //index is always integer
+
+ /* instead of using
+ System.out.println(n[0]);
+         System.out.println(n[1]);
+         System.out.println(n[2]);
+         System.out.println(n[3]);
+         System.out.println(n[4]);
+         System.out.println(n[5]);
+  */
+
+  / if don't wanna count how many index, java can do that with syntax
