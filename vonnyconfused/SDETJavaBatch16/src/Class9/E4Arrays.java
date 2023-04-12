@@ -5,7 +5,7 @@ public class E4Arrays {
 
         String[] names={"Jacob","Lean","Vonny", "ashgar", "wawa"};
 
-        for (int j = 0; j <=names.length ; j++) {
+        for (int j = 0; j <names.length ; j++) {
 
             System.out.println(names[j]);}
 

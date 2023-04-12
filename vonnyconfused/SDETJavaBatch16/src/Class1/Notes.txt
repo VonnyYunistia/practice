@@ -1,0 +1,28 @@
+important things :
+1) pay attention during class
+2) prepared ourshelves beforehand,mentor will be sharing video and material/slides
+3) Practice
+4) do not spend more than 15 minutes to solve your own, share screen shot and post in technical support channel
+5) exercise and solving after each class, 7 days due
+
+===============================================================================================================
+
+why we are here :
+1) to be good automation engineers
+ automation engineers do?
+ will be testing software  but mainly you will be testing website and mobile apps by writing a software taht will test the website automatically
+
+ how?
+ coding language
+ we are learning java language , computer communicating language
+ java is programming language that we will be using to communicate with the computer  to guide on how to test a website automatically
+
+ how language works
+  they work in similar fashion with human language work
+  they have rule, vocab, sentences
+
+  we learn rules of Java
+
+  what is intelliJ ?
+  intellij can assist you to write in java code.
+it can find and fix issues in our code and suggestion.

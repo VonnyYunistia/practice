@@ -11,7 +11,7 @@ public class E5Arrays {
 
         System.out.println();
 
-        for (int i = 2; i < names.length; i++) {
+        for (int i = 1; i < names.length; i++) {
             System.out.print(names[i]+" ");
         }
 

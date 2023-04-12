@@ -1,0 +1,51 @@
+Type casting - converting value of one type to another
+
+2 types : widening/implicit/automatic
+narrowing/explicit/manual
+
+Conditional statement :
+1. if statement
+2.switch statement
+
+if statement:
+ Syntax:
+ if(condition) {execute}
+
+ --------------------------
+ if(condition) {
+ code A;
+ } else {
+ code B;
+ }
+
+ -------------------------------
+ there more conditions to test
+
+ if(condition){
+ code A;
+ } else if(Condition2) {
+ code B;
+ } else if(condition3) {
+ code C;
+ } else {
+ code d;
+ }
+
+ else is optional, with IF program is running
+ else we don't need condition
+
+ -------------------------------
+
+ Nested if, can be nested everywhere in statement
+ nested is ; if inside another if
+
+ why? when we have 1 condition depend on another
+ how:
+
+ if(condition) { ==> outer if
+
+ if(condition) { ==>nested if
+ }
+ }
+
+ nested if depend on outer if
